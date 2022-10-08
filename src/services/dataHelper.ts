@@ -1,4 +1,6 @@
-export type FieldNames = "Datum" | "volljährig?" |
+export type FieldNames =
+    "Datum" |
+    "volljährig?" |
     "Geschlecht" |
     "Wohnsituation" |
     "Aufenthaltsstatus" |
