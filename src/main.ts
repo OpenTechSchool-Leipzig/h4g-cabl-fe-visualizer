@@ -1,7 +1,5 @@
-import "./components/medium-articles";
-import "./components/medium-header";
-import { html, LitElement } from "lit";
-import { customElement, property } from "lit/decorators.js";
+import "./components/BaseChart";
+import "./components/DemoChart";
 
 const globalStyles = `
 <style>
