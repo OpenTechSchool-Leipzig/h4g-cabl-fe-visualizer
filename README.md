@@ -13,7 +13,7 @@
 
 ## 🧑‍🤝‍🧑 Contributers: 
 
-- [Amanda Ly](mailto:)
+- [Amanda Ly](mailto:aly@alumni.nd.edu)
 - [Alex Muthmann](mailto:anyemail@dev-ethO.de)
 - [Ashley Jiang](mailto:ashleyjiang4@gmail.com)
 - [Jakub Waller](mailto:hackforgood@jakubwaller.eu)
