@@ -11,9 +11,17 @@ export default class BaseChart extends LitElement {
     @property()
     // @ts-ignore
     public type: Chart.ChartType; // tslint:disable-line:no-reserved-keywords
-    @property()
+    @property(
+        {
+            // @ts-ignore
+            hasChanged(newVal: Chart.ChartData, oldVal: Chart.ChartData) {
+                return true;
+            }
+        }
+    )
     // @ts-ignore
     public data: Chart.ChartData;
+
     @property()
     // @ts-ignore
     public options: Chart.ChartOptions;
@@ -56,6 +64,11 @@ export default class BaseChart extends LitElement {
                 this.chart.resize();
             }
         });
+    }
+
+    performUpdate() {
+        super.performUpdate()
+        this.updateChart()
     }
 
     /**
@@ -102,7 +115,12 @@ export default class BaseChart extends LitElement {
      * Manually update chart
      */
     public updateChart = (): void => {
+        const data = this.data || {};
+        const options = this.options || {};
+
         if (this.chart) {
+            this.chart.data = data;
+            this.chart.options = options;
             this.chart.update();
         }
     }
