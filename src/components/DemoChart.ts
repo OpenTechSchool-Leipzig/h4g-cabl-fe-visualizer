@@ -1,6 +1,7 @@
 import {html, LitElement} from 'lit-element';
 import './BaseChart';
-import exampleData from '../data/example.json';
+import groupBy from "../services/dataHelper";
+import exampleData from "../data/example.json"
 
 class MyDemo extends LitElement {
 
@@ -20,13 +21,15 @@ class MyDemo extends LitElement {
 
     private prepareData() {
         if (this.data === undefined) {
+            const dataset = groupBy("Aufenthaltsstatus", exampleData)
+            debugger
             this.data = {
-                labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+                labels: Object.keys(dataset),
                 datasets: [{
                     label: 'My First dataset',
                     backgroundColor: 'rgb(255, 99, 132)',
                     borderColor: 'rgb(255, 99, 132)',
-                    data: exampleData.map(it => it.Aufenthaltsstatus.length)
+                    data: dataset
                 }]
             }
         }
