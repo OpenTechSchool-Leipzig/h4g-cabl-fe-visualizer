@@ -1,0 +1,3018 @@
+[
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece344"
+    },
+    "Datum": "2022-01-04T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece345"
+    },
+    "Datum": "2022-01-04T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Infektiologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece346"
+    },
+    "Datum": "2022-01-04T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3b] mit gültigem Aufenthaltsstatus in einem anderem EU-Land",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Augenheilkunde"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece347"
+    },
+    "Datum": "2022-01-04T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece348"
+    },
+    "Datum": "2022-01-04T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece349"
+    },
+    "Datum": "2022-01-07T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece34a"
+    },
+    "Datum": "2022-01-07T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[3] Chirurgie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece34b"
+    },
+    "Datum": "2022-01-07T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece34c"
+    },
+    "Datum": "2022-01-14T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[10] ohne Unterkunft: „auf der Straße leben“, „Platte machen“; auch „PKW-Schläfer“",
+    "Aufenthaltsstatus": "[0] Patient*in kann oder will keine Angabe machen",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece34d"
+    },
+    "Datum": "2022-01-14T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece34e"
+    },
+    "Datum": "2022-01-18T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece34f"
+    },
+    "Datum": "2022-01-18T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece350"
+    },
+    "Datum": "2022-01-25T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) HNO und Urologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece351"
+    },
+    "Datum": "2022-01-25T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece352"
+    },
+    "Datum": "2022-01-21T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[2] eingeschränkte Leistungen einer deutschen GKV (e.g. wegen Beitragsschulden)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[6] Psychiatrie / Psychosomatik / Psychotherapie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece353"
+    },
+    "Datum": "2022-01-25T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece354"
+    },
+    "Datum": "2022-01-25T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece355"
+    },
+    "Datum": "2022-01-28T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3e] in Duldung",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Pädiatrie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece356"
+    },
+    "Datum": "2022-01-21T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[4] Hotel, Pension auf private Rechnung",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece357"
+    },
+    "Datum": "2022-01-25T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Pädiatrie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece358"
+    },
+    "Datum": "2022-01-31T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[5] Frauenhaus",
+    "Aufenthaltsstatus": "[99] nicht gefragt / dokumentiert",
+    "Krankenversicherungsschutz": "[1] volle Leistungen einer deutschen GKV oder PKV",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece359"
+    },
+    "Datum": "2022-02-01T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece35a"
+    },
+    "Datum": "2022-02-04T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece35b"
+    },
+    "Datum": "2022-02-08T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece35c"
+    },
+    "Datum": "2022-02-11T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[6] Psychiatrie / Psychosomatik / Psychotherapie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece35d"
+    },
+    "Datum": "2022-02-15T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[5] Frauenhaus",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[3] Chirurgie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece35e"
+    },
+    "Datum": "2022-02-15T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[8] gültige Reise- oder Auslandskrankenversicherung",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Infektiologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece35f"
+    },
+    "Datum": "2022-02-18T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece360"
+    },
+    "Datum": "2022-02-22T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3b] mit gültigem Aufenthaltsstatus in einem anderem EU-Land",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece361"
+    },
+    "Datum": "2022-02-18T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[5] Frauenhaus",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece362"
+    },
+    "Datum": "2022-02-25T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3e] in Duldung",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[3] Nein, der medizinische Versorgungsbedarf blieb ungedeckt",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece363"
+    },
+    "Datum": "2022-03-01T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[6] Psychiatrie / Psychosomatik / Psychotherapie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece364"
+    },
+    "Datum": "2022-03-08T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[5] folgender anderer Status: aus UKR geflüchtet, keine ukr. Staatsbürgerschaft",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Dermatologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece365"
+    },
+    "Datum": "2022-03-04T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece366"
+    },
+    "Datum": "2022-03-11T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece367"
+    },
+    "Datum": "2022-03-11T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece368"
+    },
+    "Datum": "2022-03-11T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[8] gültige Reise- oder Auslandskrankenversicherung",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece369"
+    },
+    "Datum": "2022-03-11T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[2] Innere Medizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece36a"
+    },
+    "Datum": "2022-03-15T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[5] folgender anderer Status: ausreisepflichtig ohne Duldung",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece36b"
+    },
+    "Datum": "2022-03-15T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[5] folgender anderer Status: aus UKR geflüchtet, keine ukr. Staatsbürgerschaft",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece36c"
+    },
+    "Datum": "2022-03-15T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[5] folgender anderer Status: ausreisepflichtig ohne Duldung",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece36d"
+    },
+    "Datum": "2022-03-15T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[5] folgender anderer Status: aus UKR geflüchtet, ukr. Staatsbürgerschaft",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[0] kein med. Versorgungsbedarf vorhanden / nicht zutreffend (z.B. ausschließlich Beratung)",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece36e"
+    },
+    "Datum": "2022-03-18T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[5] folgender anderer Status: aus UKR geflüchtet, kein ukr. Staatsbürger",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece36f"
+    },
+    "Datum": "2022-03-18T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3b] mit gültigem Aufenthaltsstatus in einem anderem EU-Land",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece370"
+    },
+    "Datum": "2022-03-18T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[3a] teilweise",
+    "Fachbereich": "[7] folgende(r) Dermatologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece371"
+    },
+    "Datum": "2022-03-18T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[5] folgender anderer Status: aus UKR geflüchtet, ukr. Staatsbürgerschaft",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece372"
+    },
+    "Datum": "2022-03-21T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[8] Notunterkunft, Übernachtungsstelle(Obdachlosensiedlung, temporäre Angebote der Kältehilfe etc.) ",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece373"
+    },
+    "Datum": "2022-03-22T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece374"
+    },
+    "Datum": "2022-03-22T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece375"
+    },
+    "Datum": "2022-03-22T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[9 ] Verpflichtungserklärung einer Privatperson im Rahmen eines Visums (ohne wirksame Auslandskrankenversicherung)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece376"
+    },
+    "Datum": "2022-03-22T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[99] nicht gefragt / dokumentiert",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[1] ja",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[3] Chirurgie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece377"
+    },
+    "Datum": "2022-03-25T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece378"
+    },
+    "Datum": "2022-03-25T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece379"
+    },
+    "Datum": "2022-03-25T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3e] in Duldung",
+    "Krankenversicherungsschutz": "[4] Ersatzleistungen im Umfang einer deutschen GKV (z.B. Leistungen nach AsylbLG mit elektronischer Gesundheitskarte, Leistungen nach SGB XII)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1a] ohne Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[6] Psychiatrie / Psychosomatik / Psychotherapie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece37a"
+    },
+    "Datum": "2022-03-29T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece37b"
+    },
+    "Datum": "2022-03-29T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[5] Frauenhaus",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece37c"
+    },
+    "Datum": "2022-03-29T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[1] ja",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[3] Chirurgie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece37d"
+    },
+    "Datum": "2022-04-01T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece37e"
+    },
+    "Datum": "2022-04-01T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[5] Frauenhaus",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[0] kein med. Versorgungsbedarf vorhanden / nicht zutreffend (z.B. ausschließlich Beratung)",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece37f"
+    },
+    "Datum": "2022-03-29T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[4] Hotel, Pension auf private Rechnung",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece380"
+    },
+    "Datum": "2022-04-05T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[2] eingeschränkte Leistungen einer deutschen GKV (e.g. wegen Beitragsschulden)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[4] unklar",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece381"
+    },
+    "Datum": "2022-04-05T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[5] Frauenhaus",
+    "Aufenthaltsstatus": "[2b] Aufenthalt über 3 Monate und Freizügigkeit wurde nicht entzogen",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece382"
+    },
+    "Datum": "2022-04-05T00:00:00.000Z",
+    "volljährig?": "[99] nicht gefragt / dokumentiert",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[8] gültige Reise- oder Auslandskrankenversicherung",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1a] ohne Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece383"
+    },
+    "Datum": "2022-04-05T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3e] in Duldung",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece384"
+    },
+    "Datum": "2022-04-05T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[6] Psychiatrie / Psychosomatik / Psychotherapie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece385"
+    },
+    "Datum": "2022-04-08T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3e] in Duldung",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Dermatologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece386"
+    },
+    "Datum": "2022-04-05T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[2a] innerhalb der ersten drei Monate des Aufenthalts",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece387"
+    },
+    "Datum": "2022-04-08T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Proktologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece388"
+    },
+    "Datum": "2022-04-08T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[8] Notunterkunft, Übernachtungsstelle(Obdachlosensiedlung, temporäre Angebote der Kältehilfe etc.) ",
+    "Aufenthaltsstatus": "[0] Patient*in kann oder will keine Angabe machen",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Dermatologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece389"
+    },
+    "Datum": "2022-04-08T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[1] ja",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[3] Chirurgie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece38a"
+    },
+    "Datum": "4/12/2022",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Dermatologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece38b"
+    },
+    "Datum": "4/12/2022",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[1] ja",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece38c"
+    },
+    "Datum": "4/12/2022",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[0] nicht zutreffend (z.B. ausschließlich Beratung)",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece38d"
+    },
+    "Datum": "2022-04-19T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[99] nicht gefragt / dokumentiert",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece38e"
+    },
+    "Datum": "2022-04-19T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[1] ja",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece38f"
+    },
+    "Datum": "2022-04-22T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3b] mit gültigem Aufenthaltsstatus in einem anderem EU-Land",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece390"
+    },
+    "Datum": "2022-04-22T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[2] Innere Medizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece391"
+    },
+    "Datum": "2022-04-22T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[2] Innere Medizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece392"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[2a] innerhalb der ersten drei Monate des Aufenthalts",
+    "Krankenversicherungsschutz": "[8] gültige Reise- oder Auslandskrankenversicherung",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1a] ohne Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[99] nicht dokumentiert"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece393"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[8] gültige Reise- oder Auslandskrankenversicherung",
+    "NotfallV": "[2] nein",
+    "MediVers": "[4] unklar",
+    "Fachbereich": "[99] nicht dokumentiert"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece394"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[5] folgender anderer Status: aus UKR geflüchtet, ukr. Staatsbürgerschaft",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1a] ohne Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[99] nicht dokumentiert"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece395"
+    },
+    "Datum": "",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece396"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece397"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Dermatologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece398"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece399"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[3] eingeschränkte Leistungen einer deutschen PKV (e.g. Notlagentarif)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[0] kein med. Versorgungsbedarf vorhanden / nicht zutreffend (z.B. ausschließlich Beratung)",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece39a"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[2b] Aufenthalt über 3 Monate und Freizügigkeit wurde nicht entzogen",
+    "Krankenversicherungsschutz": "[8] gültige Reise- oder Auslandskrankenversicherung",
+    "NotfallV": "[2] nein",
+    "MediVers": "[0] kein med. Versorgungsbedarf vorhanden / nicht zutreffend (z.B. ausschließlich Beratung)",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece39b"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[2] eingeschränkte Leistungen einer deutschen GKV (e.g. wegen Beitragsschulden)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[3] Chirurgie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece39c"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[5] folgender anderer Status: aus UKR geflüchtet, ukr. Staatsbürgerschaft",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece39d"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[2a] innerhalb der ersten drei Monate des Aufenthalts",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece39e"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[8] Notunterkunft, Übernachtungsstelle(Obdachlosensiedlung, temporäre Angebote der Kältehilfe etc.) ",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[2] eingeschränkte Leistungen einer deutschen GKV (e.g. wegen Beitragsschulden)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece39f"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3a0"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) HNO"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3a1"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[99] nicht gefragt / dokumentiert",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1a] ohne Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3a2"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3a3"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3b] mit gültigem Aufenthaltsstatus in einem anderem EU-Land",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3a4"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[10] ohne Unterkunft: „auf der Straße leben“, „Platte machen“; auch „PKW-Schläfer“",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3a5"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[2] eingeschränkte Leistungen einer deutschen GKV (e.g. wegen Beitragsschulden)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1a] ohne Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Pulmologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3a6"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r) Urologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3a7"
+    },
+    "Datum": "",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[9 ] Verpflichtungserklärung einer Privatperson im Rahmen eines Visums (ohne wirksame Auslandskrankenversicherung)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3a8"
+    },
+    "Datum": "2022-05-20T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3b] mit gültigem Aufenthaltsstatus in einem anderem EU-Land",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[6] Psychiatrie / Psychosomatik / Psychotherapie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3a9"
+    },
+    "Datum": "2022-05-24T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3aa"
+    },
+    "Datum": "2022-05-24T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[2b] Aufenthalt über 3 Monate und Freizügigkeit wurde nicht entzogen",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ab"
+    },
+    "Datum": "2022-05-24T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ac"
+    },
+    "Datum": "2022-05-31T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ad"
+    },
+    "Datum": "2022-05-31T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ae"
+    },
+    "Datum": "2022-05-31T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[9 ] Verpflichtungserklärung einer Privatperson im Rahmen eines Visums (ohne wirksame Auslandskrankenversicherung)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Dermatologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3af"
+    },
+    "Datum": "6/7/2022",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3b0"
+    },
+    "Datum": "6/7/2022",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3b1"
+    },
+    "Datum": "2022-05-31T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[99] nicht gefragt / dokumentiert",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3b2"
+    },
+    "Datum": "2022-05-31T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[8] Notunterkunft, Übernachtungsstelle(Obdachlosensiedlung, temporäre Angebote der Kältehilfe etc.) ",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Gastroenterologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3b3"
+    },
+    "Datum": "6/7/2022",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Orthopädie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3b4"
+    },
+    "Datum": "6/7/2022",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[10] ohne Unterkunft: „auf der Straße leben“, „Platte machen“; auch „PKW-Schläfer“",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin",
+    "field9": "Radiologie, Physiotherapie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3b5"
+    },
+    "Datum": "2022-06-10T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3b6"
+    },
+    "Datum": "6/7/2022",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[10] ohne Unterkunft: „auf der Straße leben“, „Platte machen“; auch „PKW-Schläfer“",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3b7"
+    },
+    "Datum": "2022-05-31T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3] Drittstaatler:innen",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Notambulanz"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3b8"
+    },
+    "Datum": "2022-06-10T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[10] ohne Unterkunft: „auf der Straße leben“, „Platte machen“; auch „PKW-Schläfer“",
+    "Aufenthaltsstatus": "[3] Drittstaatler:innen",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3b9"
+    },
+    "Datum": "2022-06-14T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ba"
+    },
+    "Datum": "2022-06-14T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[2] eingeschränkte Leistungen einer deutschen GKV (e.g. wegen Beitragsschulden)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[0] kein med. Versorgungsbedarf vorhanden / nicht zutreffend (z.B. ausschließlich Beratung)",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3bb"
+    },
+    "Datum": "2022-06-17T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[6] (sozialpädagogisch) betreute Wohnformen (einzeln oder Wohngruppe); Aufnahmehaus o. ä.",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Orthopädie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3bc"
+    },
+    "Datum": "2022-06-21T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3bd"
+    },
+    "Datum": "2022-06-21T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3e] in Duldung",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3be"
+    },
+    "Datum": "2022-06-17T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[2] eingeschränkte Leistungen einer deutschen GKV (e.g. wegen Beitragsschulden)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1] Ja, durch Inanspruchnahme des med. Regelsystems ",
+    "Fachbereich": "[6] Psychiatrie / Psychosomatik / Psychotherapie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3bf"
+    },
+    "Datum": "2022-06-14T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Neurologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3c0"
+    },
+    "Datum": "2022-06-21T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3c1"
+    },
+    "Datum": "2022-06-14T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3c2"
+    },
+    "Datum": "2022-06-21T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3c3"
+    },
+    "Datum": "2022-06-21T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3c4"
+    },
+    "Datum": "2022-06-21T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3e] in Duldung",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3c5"
+    },
+    "Datum": "2022-06-24T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[2] eingeschränkte Leistungen einer deutschen GKV (e.g. wegen Beitragsschulden)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie",
+    "field9": "HNO, Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3c6"
+    },
+    "Datum": "2022-06-24T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[4] Hotel, Pension auf private Rechnung",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3c7"
+    },
+    "Datum": "2022-06-28T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[3] Chirurgie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3c8"
+    },
+    "Datum": "2022-06-28T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[6] Psychiatrie / Psychosomatik / Psychotherapie",
+    "field9": "Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3c9"
+    },
+    "Datum": "2022-06-28T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[2] eingeschränkte Leistungen einer deutschen GKV (e.g. wegen Beitragsschulden)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1a] ohne Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin",
+    "field9": "Orthopädie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ca"
+    },
+    "Datum": "2022-07-05T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[6] Psychiatrie / Psychosomatik / Psychotherapie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3cb"
+    },
+    "Datum": "2022-07-05T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "HNO"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3cc"
+    },
+    "Datum": "2022-07-05T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3cd"
+    },
+    "Datum": "2022-07-05T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[5] folgender anderer Status: aus UKR geflüchtet, ukr. Staatsbürgerschaft",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ce"
+    },
+    "Datum": "2022-07-05T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3cf"
+    },
+    "Datum": "2022-07-07T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "HNO"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3d0"
+    },
+    "Datum": "2022-07-07T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3d1"
+    },
+    "Datum": "2022-07-07T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1a] ohne Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Pädiatrie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3d2"
+    },
+    "Datum": "2022-07-12T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3d3"
+    },
+    "Datum": "2022-07-14T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3d4"
+    },
+    "Datum": "2022-07-14T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[2] eingeschränkte Leistungen einer deutschen GKV (e.g. wegen Beitragsschulden)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[0] kein med. Versorgungsbedarf vorhanden / nicht zutreffend (z.B. ausschließlich Beratung)",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3d5"
+    },
+    "Datum": "7/19/2022",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3d6"
+    },
+    "Datum": "7/19/2022",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[1] ja",
+    "MediVers": "[1] Ja, durch Inanspruchnahme des med. Regelsystems ",
+    "Fachbereich": "[2] Innere Medizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3d7"
+    },
+    "Datum": "7/19/2022",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Dermatologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3d8"
+    },
+    "Datum": "7/19/2022",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3d9"
+    },
+    "Datum": "2022-07-21T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3da"
+    },
+    "Datum": "2022-07-26T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[3] Chirurgie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3db"
+    },
+    "Datum": "2022-07-26T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3dc"
+    },
+    "Datum": "2022-07-26T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[10] ohne Unterkunft: „auf der Straße leben“, „Platte machen“; auch „PKW-Schläfer“",
+    "Aufenthaltsstatus": "[2b] Aufenthalt über 3 Monate und Freizügigkeit wurde nicht entzogen",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3dd"
+    },
+    "Datum": "2022-07-26T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3b] mit gültigem Aufenthaltsstatus in einem anderem EU-Land",
+    "Krankenversicherungsschutz": "[6] gültige Versicherung in einem anderen EU-Land (EHIC oder PEB vorhanden)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1a] ohne Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3de"
+    },
+    "Datum": "2022-07-26T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[5] folgender anderer Status:____________________________________________________________",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie",
+    "field9": "Studierende aus Ghana aus UKR geflohen, vermutlich kein Anspruch auch §24"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3df"
+    },
+    "Datum": "2022-07-28T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[8] gültige Reise- oder Auslandskrankenversicherung",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3e0"
+    },
+    "Datum": "2022-07-28T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[5] folgender anderer Status:____________________________________________________________",
+    "Krankenversicherungsschutz": "",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin",
+    "field9": "90 Tage Visafrei mit AE in UKR geflüchtet, wird §24 beantragen"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3e1"
+    },
+    "Datum": "2022-08-02T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3e2"
+    },
+    "Datum": "2022-08-02T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[99] nicht gefragt / dokumentiert",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3e3"
+    },
+    "Datum": "2022-08-09T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[8] Notunterkunft, Übernachtungsstelle(Obdachlosensiedlung, temporäre Angebote der Kältehilfe etc.) ",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[1] volle Leistungen einer deutschen GKV oder PKV",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3e4"
+    },
+    "Datum": "2022-08-02T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[10] ohne Unterkunft: „auf der Straße leben“, „Platte machen“; auch „PKW-Schläfer“",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[0] Patient*in kann oder will keine Angabe machen",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[2] Innere Medizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3e5"
+    },
+    "Datum": "2022-08-09T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3e6"
+    },
+    "Datum": "2022-08-09T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3e7"
+    },
+    "Datum": "2022-08-09T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Zahnmedizin, Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3e8"
+    },
+    "Datum": "2022-08-09T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3e9"
+    },
+    "Datum": "2022-08-09T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[2] Innere Medizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ea"
+    },
+    "Datum": "2022-08-09T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[2] Innere Medizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3eb"
+    },
+    "Datum": "2022-08-09T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ec"
+    },
+    "Datum": "2022-08-11T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[4] Hotel, Pension auf private Rechnung",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[0] kein med. Versorgungsbedarf vorhanden / nicht zutreffend (z.B. ausschließlich Beratung)",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ed"
+    },
+    "Datum": "2022-08-05T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[3] Chirurgie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ee"
+    },
+    "Datum": "2022-08-11T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3a] zu Besuch/Touristen (ohne gewöhnlichen Aufenthalt in Deutschland)",
+    "Krankenversicherungsschutz": "[8] gültige Reise- oder Auslandskrankenversicherung",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[6] Psychiatrie / Psychosomatik / Psychotherapie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ef"
+    },
+    "Datum": "2022-08-11T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[6] Psychiatrie / Psychosomatik / Psychotherapie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3f0"
+    },
+    "Datum": "2022-08-11T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Pädiatrie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3f1"
+    },
+    "Datum": "2022-08-11T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Orthopädie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3f2"
+    },
+    "Datum": "2022-08-11T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Pädiatrie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3f3"
+    },
+    "Datum": "2022-08-11T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3f4"
+    },
+    "Datum": "2022-08-16T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[3e] in Duldung",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3f5"
+    },
+    "Datum": "2022-08-11T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Pädiatrie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3f6"
+    },
+    "Datum": "2022-08-16T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[1] ja",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[3] Chirurgie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3f7"
+    },
+    "Datum": "2022-08-16T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[2a] innerhalb der ersten drei Monate des Aufenthalts",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3f8"
+    },
+    "Datum": "2022-08-18T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[2] Innere Medizin",
+    "field9": "Infektiologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3f9"
+    },
+    "Datum": "2022-08-23T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Neurologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3fa"
+    },
+    "Datum": "2022-08-23T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Urologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3fb"
+    },
+    "Datum": "2022-08-23T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin",
+    "field9": "Augenheilkunde"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3fc"
+    },
+    "Datum": "2022-08-30T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[3e] in Duldung",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Pädiatrie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3fd"
+    },
+    "Datum": "2022-09-01T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3fe"
+    },
+    "Datum": "2022-09-01T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece3ff"
+    },
+    "Datum": "2022-09-01T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece400"
+    },
+    "Datum": "2022-09-06T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[2] Innere Medizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece401"
+    },
+    "Datum": "2022-09-06T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[3] inter / divers",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Dermatologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece402"
+    },
+    "Datum": "2022-09-06T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[0] kein med. Versorgungsbedarf vorhanden / nicht zutreffend (z.B. ausschließlich Beratung)",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece403"
+    },
+    "Datum": "2022-09-08T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece404"
+    },
+    "Datum": "2022-09-13T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece405"
+    },
+    "Datum": "2022-09-13T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece406"
+    },
+    "Datum": "2022-09-13T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "HNO, Augen"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece407"
+    },
+    "Datum": "2022-09-15T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[2a] innerhalb der ersten drei Monate des Aufenthalts",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Infektiologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece408"
+    },
+    "Datum": "2022-09-15T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Dermatologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece409"
+    },
+    "Datum": "2022-09-15T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece40a"
+    },
+    "Datum": "2022-09-15T00:00:00.000Z",
+    "volljährig?": "[2] nein",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Neuropädiatrie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece40b"
+    },
+    "Datum": "2022-09-15T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1a] ohne Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece40c"
+    },
+    "Datum": "2022-09-20T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece40d"
+    },
+    "Datum": "2022-09-20T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece40e"
+    },
+    "Datum": "2022-09-20T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[5] folgender anderer Status:____________________________________________________________",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Orthopädie, Radiologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece40f"
+    },
+    "Datum": "2022-09-20T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[2b] Aufenthalt über 3 Monate und Freizügigkeit wurde nicht entzogen",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece410"
+    },
+    "Datum": "2022-09-22T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece411"
+    },
+    "Datum": "2022-09-22T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[1] in eigener Wohnung / eigenem Haus",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[0] kein med. Versorgungsbedarf vorhanden / nicht zutreffend (z.B. ausschließlich Beratung)",
+    "Fachbereich": "[0] nicht zutreffend (z.B. ausschließlich Beratung)"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece412"
+    },
+    "Datum": "2022-09-22T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[10] ohne Unterkunft: „auf der Straße leben“, „Platte machen“; auch „PKW-Schläfer“",
+    "Aufenthaltsstatus": "[2] EU-Bürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[3] Chirurgie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece413"
+    },
+    "Datum": "2022-09-22T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece414"
+    },
+    "Datum": "2022-09-27T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[4] papierlos / vollziehbar ausreisepflichtig und untergetaucht (ohne geregelten Aufenthaltsstatus)",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[1] Allgemeinmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece415"
+    },
+    "Datum": "2022-09-27T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[99] nicht gefragt / dokumentiert",
+    "Aufenthaltsstatus": "[99] nicht gefragt / dokumentiert",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[4] Gynäkologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece416"
+    },
+    "Datum": "2022-09-27T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[11] folgende andere Wohnsituation:_____________________________________________________",
+    "Aufenthaltsstatus": "[1] Deutsche Staatsbürger*in",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[5] Zahnmedizin"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece417"
+    },
+    "Datum": "2022-09-27T00:00:00.000Z",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[1] männlich",
+    "Wohnsituation": "[7] Flüchtlings-/ Asylunterkunft",
+    "Aufenthaltsstatus": "[3d] mit laufendem Asylantrag (Aufenthaltsgestattung)",
+    "Krankenversicherungsschutz": "[5] Leistungen nach AsylbLG ohne elektronische Gesundheitskarte)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Urologie"
+  },
+  {
+    "_id": {
+      "$oid": "634182e7f0be71bef7ece418"
+    },
+    "Datum": "9/28/2022",
+    "volljährig?": "[1] ja",
+    "Geschlecht": "[2] weiblich",
+    "Wohnsituation": "[2] bei Familie, Partner:in oder Bekannten (bei der Wohnung handelt es sich nicht um die eigene)",
+    "Aufenthaltsstatus": "[3c] mit gültigem Visum oder Aufenthalts- / Arbeitserlaubnis in Deutschland",
+    "Krankenversicherungsschutz": "[10] ohne Versicherungsschutz (oder ungeklärt, sodass Patient*in nirgends Leistungen in Anspruch nimmt)",
+    "NotfallV": "[2] nein",
+    "MediVers": "[1b] mit Vermittlungsaufwand und/oder Kostenübernahme durch die Anlaufstelle",
+    "Fachbereich": "[7] folgende(r)",
+    "field9": "Allgemeinmedizin, Zahnmedizin"
+  }
+]
