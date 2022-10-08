@@ -24,9 +24,7 @@ class MyDemo extends LitElement {
         "MediVers",
         "Fachbereich"];
 
-    // @ts-ignore
     public selected: FieldNames = this.selectOptions[0];
-
     public endDate?: Date
     public startDate?: Date
 
@@ -43,7 +41,8 @@ class MyDemo extends LitElement {
                                 <option value="${option}" ?selected=${this.selected === option}>${option}</option>
                             `
                     )}
-                </select></div>
+                </select>
+            </div>
             <base-chart type="${type}" .data="${data}" .options="${options}"></base-chart>
         `;
     }

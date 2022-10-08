@@ -19,9 +19,9 @@ export interface Data {
     "Fachbereich": string
 }
 
-export default function groupBy(name: FieldNames, data: Record<FieldNames, string>[], startDate?: Date, endDate?: Date) {
+export default function groupBy(name: FieldNames, jsonData: Record<FieldNames, string>[], startDate?: Date, endDate?: Date) {
 
-    let entries: Data[] = data.map(e => {
+    let entries: Data[] = jsonData.map(e => {
         let foo = e as unknown as Data
         foo.Datum = new Date(e.Datum)
         return foo
