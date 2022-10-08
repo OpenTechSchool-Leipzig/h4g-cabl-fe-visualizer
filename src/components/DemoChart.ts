@@ -27,17 +27,23 @@ class MyDemo extends LitElement {
     // @ts-ignore
     public selected: FieldNames = this.selectOptions[0];
 
+    public endDate?: Date
+    public startDate?: Date
+
     public render() {
         const {type, options} = this;
         const data = this.prepareData();
         return html`
-            <div><select @change="${this.onChange}">
-                ${this.selectOptions.map(
-                        option => html`
-                            <option value="${option}" ?selected=${this.selected === option}>${option}</option>
-                        `
-                )}
-            </select></div>
+            <div>
+                <input type="date" @change="${this.onChangeStart}">
+                <input type="date" @change="${this.onChangeEnd}">
+                <select @change="${this.onChange}">
+                    ${this.selectOptions.map(
+                            option => html`
+                                <option value="${option}" ?selected=${this.selected === option}>${option}</option>
+                            `
+                    )}
+                </select></div>
             <base-chart type="${type}" .data="${data}" .options="${options}"></base-chart>
         `;
     }
@@ -47,8 +53,19 @@ class MyDemo extends LitElement {
         this.requestUpdate()
     }
 
+    private onChangeStart(e: any) {
+        this.startDate = new Date(e.currentTarget.value)
+        this.requestUpdate()
+    }
+
+    private onChangeEnd(e: any) {
+        this.endDate = new Date(e.currentTarget.value)
+        this.requestUpdate()
+    }
+
+
     private prepareData() {
-        const dataset = groupBy(this.selected, exampleData)
+        const dataset = groupBy(this.selected, exampleData as unknown as Record<FieldNames, string>[], this.startDate, this.endDate)
         return {
             labels: Object.keys(dataset),
             datasets: [{
