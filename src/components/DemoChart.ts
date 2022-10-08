@@ -8,8 +8,17 @@ class MyDemo extends LitElement {
     // @ts-ignore
     public data;
 
-    public options = {};
-    public type = 'line';
+    public options = {
+        scales: {
+            x: {
+                ticks: {
+                    maxRotation: 90,
+                    minRotation: 90
+                }
+            }
+        }
+    };
+    public type = 'bar';
 
     public render() {
         const {type, options} = this;
@@ -22,7 +31,6 @@ class MyDemo extends LitElement {
     private prepareData() {
         if (this.data === undefined) {
             const dataset = groupBy("Aufenthaltsstatus", exampleData)
-            debugger
             this.data = {
                 labels: Object.keys(dataset),
                 datasets: [{
